@@ -1,5 +1,5 @@
 {
-    "user": "samp-incognito",
+    "user": "ADRFranklin",
     "repo": "samp-audio-server-plugin",
     "resources": [
         {
@@ -24,6 +24,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["samp-incognito/samp-audio-server-plugin"]
+        "plugins": ["ADRFranklin/samp-audio-server-plugin"]
     }
 }
