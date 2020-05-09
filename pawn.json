@@ -10,7 +10,7 @@
             "plugins": ["plugins/audio.so"],
             "files": {
                 "audio.ini": "audio.ini",
-                "audiopacks/": "audiopacks/"
+                "audiopacks/*": "audiopacks/"
             }
         },
         {
